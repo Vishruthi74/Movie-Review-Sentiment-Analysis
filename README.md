@@ -84,7 +84,7 @@ __Review__: 'What the (beep) is going wrong with Disney the last years? Are ther
 
 __Cleaned Text__ : 'beep going wrong disney last year totally run good idea magic good animator good songwriter good director good okay know walt famous `` nine old man not come back reason crank countless cheap sequel slowly surely destroying ideal walt disney never rent bought disneysequel movie however read much enough absence quality `` atlantis milo return wa aired today tv germany watch confirmed doubt sequel wa absolutely boring flaw animation primitive colorrotation simple character unsuccessful try simulate famous multiplanecamera cgi mediocre music patchwork different simple story look absolutely not like disney not like disney know look like one countless cheap simple animationseries like `` dragonballz `` beyblade etc aired every day tv child first reaction showing crap wa load `` bambi dvdplayer see disney immortal magic depth spirit charm see disney climax see awesome art handmade animation `` bambi wa first today movie give 10 10 star `` atlantis milo return no magic no depth no charm no spirit deserved 3 10'
 
-## Sentriment Analysis
+## Sentiment Analysis
 
 1. ### __AFINN__
 
